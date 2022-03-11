@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AhmadFahrurrozi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AhmadFahrurrozi/AhmadFahrurrozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Perintah
+   $ pkg update && upgrade
+   $ pkg install git
+   $ pkg install python
+   $ pip install requests
+   $ pip install futures
+   $ git clone https://github.com/AhmadFahrurrozi/ig
+   $ cd Crack-ig
+   $ git pull
+   $ python Prem.py
